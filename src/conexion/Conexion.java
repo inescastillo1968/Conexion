@@ -4,18 +4,17 @@
  * and open the template in the editor.
  */
 package conexion;
-
+import interfaces.Interfaz;
+import javax.swing.JFrame;
 /**
  *
  * @author LAB10
  */
-public class Conexion {
+public class Conexion 
+{
 
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
-}
+   import interfaces.Interfaz;
+import javax.swing.JFrame;
